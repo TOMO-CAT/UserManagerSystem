@@ -1,4 +1,4 @@
-module demo
+module github.com/TOMO-CAT/UserManagerSystem
 
 go 1.15
 

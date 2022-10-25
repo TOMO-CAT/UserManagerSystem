@@ -1,4 +1,4 @@
-# GoFrame Template For SingleRepo
+# User Manager System
 
 Project Makefile Commands: 
 - `make cli`: Install or Update to the latest GoFrame CLI tool.

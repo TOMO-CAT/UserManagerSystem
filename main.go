@@ -1,11 +1,11 @@
 package main
 
 import (
-	_ "demo/internal/packed"
+	_ "github.com/TOMO-CAT/UserManagerSystem/internal/packed"
 
 	"github.com/gogf/gf/v2/os/gctx"
 
-	"demo/internal/cmd"
+	"github.com/TOMO-CAT/UserManagerSystem/internal/cmd"
 )
 
 func main() {

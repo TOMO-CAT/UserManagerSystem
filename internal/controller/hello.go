@@ -5,7 +5,7 @@ import (
 
 	"github.com/gogf/gf/v2/frame/g"
 
-	"demo/api/v1"
+	v1 "github.com/TOMO-CAT/UserManagerSystem/api/v1"
 )
 
 var (
